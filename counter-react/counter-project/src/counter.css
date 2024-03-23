@@ -1,0 +1,29 @@
+/* Counter button styles */
+.counter-button {
+    background-color: #007bff; /* Blue background */
+    color: #fff; /* White text */
+    padding: 0.5em 1em; /* Padding */
+    border: none; /* No border */
+    border-radius: 4px; /* Rounded corners */
+    margin: 0.5em; /* Margin */
+    cursor: pointer; /* Cursor style */
+    transition: background-color 0.3s; /* Smooth background color transition */
+  }
+  
+  .counter-button:hover {
+    background-color: #0056b3; /* Darker blue on hover */
+  }
+  
+  /* Heading styles */
+  h1 {
+    font-size: 2em; /* Larger font size */
+    color: #333; /* Dark text color */
+    margin-bottom: 1em; /* Bottom margin */
+  }
+  
+  h2 {
+    font-size: 1.5em; /* Medium font size */
+    color: #555; /* Slightly darker text color */
+    margin-bottom: 0.5em; /* Bottom margin */
+  }
+  
